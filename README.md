@@ -1,2 +1,2 @@
 # Web Tech Homework
-This project demonstrates GitHub synchronisation with VS Code.
+This project demonstrates GitHub synchronisation with VS Code. Test sentence.
